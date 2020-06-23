@@ -1,0 +1,15 @@
+{
+  "name": "mockUnitTesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
